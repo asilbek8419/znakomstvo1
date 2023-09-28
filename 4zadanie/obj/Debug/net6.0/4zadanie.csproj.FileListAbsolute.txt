@@ -1,0 +1,15 @@
+D:\GB\DZ 1-prakticheskoe\4zadanie\bin\Debug\net6.0\4zadanie.exe
+D:\GB\DZ 1-prakticheskoe\4zadanie\bin\Debug\net6.0\4zadanie.deps.json
+D:\GB\DZ 1-prakticheskoe\4zadanie\bin\Debug\net6.0\4zadanie.runtimeconfig.json
+D:\GB\DZ 1-prakticheskoe\4zadanie\bin\Debug\net6.0\4zadanie.dll
+D:\GB\DZ 1-prakticheskoe\4zadanie\bin\Debug\net6.0\4zadanie.pdb
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.csproj.AssemblyReference.cache
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.AssemblyInfoInputs.cache
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.AssemblyInfo.cs
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.csproj.CoreCompileInputs.cache
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.dll
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\refint\4zadanie.dll
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.pdb
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\4zadanie.genruntimeconfig.cache
+D:\GB\DZ 1-prakticheskoe\4zadanie\obj\Debug\net6.0\ref\4zadanie.dll
